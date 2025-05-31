@@ -51,7 +51,7 @@ steps:
     args:
       - 'run'
       - 'deploy'
-      - 'img-studio'
+      - 'marslim-altostrat-imgstudio-app'
       - '--image'
       - 'gcr.io/$PROJECT_ID/img-studio:latest'
       - '--region'
